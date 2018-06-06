@@ -1,5 +1,5 @@
 # mdxc-example
-This is a brief example of how you can use `mdxs` to create and import React components.
+This is a brief example of how you can use [MDXC](https://github.com/jamesknelson/mdxc) to create and import React components.
 
 ## Installation
 
